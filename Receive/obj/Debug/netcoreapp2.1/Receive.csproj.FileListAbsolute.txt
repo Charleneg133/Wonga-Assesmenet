@@ -1,0 +1,15 @@
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\ServicesSdk.dll
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\ServicesSdk.pdb
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CopyComplete
+C:\Users\charleneg\source\repos\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Users\charleneg\source\repos\Receive\bin\Debug\netcoreapp2.1\Receive.dll.config

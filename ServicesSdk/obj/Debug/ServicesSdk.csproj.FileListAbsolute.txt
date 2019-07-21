@@ -1,0 +1,11 @@
+C:\Users\charleneg\source\repos\ServicesSdk\obj\Debug\ServicesSdk.csproj.CoreCompileInputs.cache
+C:\Users\charleneg\source\repos\ServicesSdk\bin\Debug\ServicesSdk.dll
+C:\Users\charleneg\source\repos\ServicesSdk\bin\Debug\ServicesSdk.pdb
+C:\Users\charleneg\source\repos\ServicesSdk\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\charleneg\source\repos\ServicesSdk\bin\Debug\RabbitMQ.Client.dll
+C:\Users\charleneg\source\repos\ServicesSdk\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\charleneg\source\repos\ServicesSdk\bin\Debug\RabbitMQ.Client.xml
+C:\Users\charleneg\source\repos\ServicesSdk\obj\Debug\ServicesSdk.csproj.CopyComplete
+C:\Users\charleneg\source\repos\ServicesSdk\obj\Debug\ServicesSdk.dll
+C:\Users\charleneg\source\repos\ServicesSdk\obj\Debug\ServicesSdk.pdb
+C:\Users\charleneg\source\repos\ServicesSdk\obj\Debug\ServicesSdk.csprojAssemblyReference.cache
